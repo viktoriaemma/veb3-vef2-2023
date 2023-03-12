@@ -14,7 +14,7 @@ const app = express();
 app.get('/', (req, res) => {
   console.log('Headers sent?', res.headersSent);
 
-  // res.write('foo');
+  //res.write('foo');
 
   // getum ennþá átt við headers
   if (!res.headersSent) {

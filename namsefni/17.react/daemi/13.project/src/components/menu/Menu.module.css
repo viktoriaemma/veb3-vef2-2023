@@ -1,0 +1,11 @@
+.menu {
+  display: flex;
+  margin-bottom: 2rem;
+}
+.menu__group {
+  margin-right: 2rem;
+}
+.menu__list {
+  padding: 0;
+  list-style: none;
+}/*# sourceMappingURL=Menu.module.css.map */
